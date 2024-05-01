@@ -1,0 +1,12 @@
+mkdir foldername     
+cd foldername
+touch filename.filetype
+nano filename.filetype
+ls
+head filename.filetype
+tail filename.filetype
+cat file1name.filetype file2name.filetype
+pwd
+rmdir 
+rm file1name.filetype
+cp sourcefilwname.filetype destfilename.filetype
